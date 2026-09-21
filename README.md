@@ -153,7 +153,7 @@ Información oficial sobre las convocatorias de formación sanitaria especializa
 
 **Autor:** Salva
 
-**Proyecto:** RFIR Question Bank
+**Proyecto:** Preguntas examen RFIR 
 
 **Lenguaje:** Python
 
